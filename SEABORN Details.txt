@@ -1,0 +1,34 @@
+SEABORN :-
+
+
+Seaborn is a Python data-visualization library built on top of Matplotlib.
+It makes creating beautiful, statistical, and customized graphs much easier and faster.
+
+
+
+⭐ Key Features of Seaborn
+
+High-level interface → easier and cleaner than Matplotlib.
+Beautiful default themes → your graphs look professional automatically.
+Supports statistical plots → regression plots, distribution plots, heatmaps, etc.
+Integrates well with pandas DataFrames.
+
+
+
+📊 Common Plots in Seaborn
+
+sns.lineplot() → line chart
+sns.barplot() → bar chart
+sns.countplot() → count/frequency chart
+sns.heatmap() → correlation or matrix heatmap
+sns.distplot() / sns.histplot() → distributions
+sns.boxplot() → box & whisker plot
+sns.pairplot() → multiple relationships visualization
+sns.regplot() → regression trend line
+
+🎯 Why Use Seaborn
+
+Less code than Matplotlib
+Better colors and styling
+Great for statistical data analysis
+Works perfectly with DataFrames (df)
